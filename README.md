@@ -5,7 +5,7 @@ An html canvas piece project, displaying the effect of collusion particles using
 
 1. Clone the Repo:
 
-    https://github.com/WavhudiCornelius/canvas-circles-collusion.git
+    https://github.com/WavhudiCornelius/canvas-circles-collusion-animation.git
 
 2. Install dependencies:
 
